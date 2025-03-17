@@ -16,6 +16,7 @@ In *Experimentation with PyTorch*, students gain practical experience with the P
 ## Codebase Structure
 
 
-## Final Project
 
-The final project is a culminating effort where students apply their PyTorch skills to a real-world problem. 
+## Final Project Description
+
+This project, *Pruning and Quantizing a Normalization-Free Network With Dynamic Tanh*, investigates how compression techniques like pruning and quantization work on networks that skip traditional normalization layers by using Dynamic Tanh (DyT) instead. Inspired by the paper [Transformers without Normalization](https://arxiv.org/pdf/2503.10622), the goal is to see how removing normalization affects accuracy and stability after compression, and to understand how well DyT adapts to different levels of precision. By comparing these normalization-free models with standard ones, the project seeks to discover innovative strategies for deploying efficient deep learning models on devices with limited resources.
