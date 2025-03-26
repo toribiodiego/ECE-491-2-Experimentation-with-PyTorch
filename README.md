@@ -1,20 +1,26 @@
 
 
+> This repository contains the code for **ECE 491: Experimentation with PyTorch**, a 3-credit graduate-level course at The Cooper Union for the Advancement of Science and Art, offering hands-on experience with deep learning using PyTorch.
 
-> This repository contains the code for **ECE 491: Experimentation with PyTorch**, a graduate-level, 3-credit course offering hands-on deep learning experience with PyTorch. Under **Professor Carl Sable**'s guidance, it includes exercises from *Machine Learning with PyTorch and Scikit-Learn* by Raschka, Liu, and Mirjalili, the Hugging Face NLP Tutorial, and our final project work. The course is designed to deepen our PyTorch proficiency and inspire innovative final projects that transcend conventional deep learning approaches.
 
-
+## Experimentation with PyTorch
+**Spring 2025 Independent Study**  
+**Instructor:** Professor Carl Sable
 
 ## Course Overview
+The *independent study* is designed to build true proficiency in PyTorch by working at a low level with the framework, beyond relying on high-level abstractions. Through hands-on practice and guided exploration, students gain the skills needed to develop original deep learning projects that go beyond standard, boilerplate implementations.
 
-In *Experimentation with PyTorch*, students gain practical experience with the PyTorch framework through weekly discussions, readings, and hands-on tutorials. The course covers a wide range of topics that deepen understanding of PyTorch, including the use of pre-built and pretrained models from the Hugging Face Hub as well as the development of custom layers, loss functions, and architectures. 
+- Core PyTorch operations and custom model development  
+- Loss functions, optimizers, and training loops  
+- Transfer learning with pretrained models from Hugging Face  
+- Applications in NLP, computer vision, audio, and video processing  
+- Weekly activities based on *Machine Learning with PyTorch and Scikit-Learn* and Hugging Face tutorials  
+- Final projects showcasing innovative applications beyond conventional deep learning approaches  
 
- While the primary focus is on NLP, the curriculum also touches on other machine learning domains such as computer vision, audio, and video processing. Ultimately, the course is designed to build proficiency in PyTorch and guide students toward conceptualizing and implementing a final project that transcends conventional deep learning approaches.
 
+## Repository Structure
 
-
-## Codebase Structure
-
+- **some-file**
 
 
 ## Final Project Description
