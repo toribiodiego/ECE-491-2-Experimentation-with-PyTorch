@@ -20,7 +20,7 @@ The textbook [*Machine Learning with PyTorch and Scikit-Learn*](https://www.good
 - Streamlining projects using PyTorch Lightning.
 - Training and deploying language models with the *Hugging Face Trainer API*.
 
-Complementing this, the [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/en/chapter1/1) offers practical training for modern research workflows, including:
+Complementing this, the [*Hugging Face NLP Course*](https://huggingface.co/learn/nlp-course/en/chapter1/1) offers practical training for modern research workflows, including:
 
 - Working with pretrained transformer models and tokenizers
 - Fine-tuning Hugging Face models for specific tasks
