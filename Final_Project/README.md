@@ -1,6 +1,6 @@
-## Efficient ViT's with Dynamic Tanh
+> This directory contains the final project for **Experimentation with PyTorch (ECE‑491)**, focusing on model compression techniques—pruning and quantization—applied to normalization‑free neural networks using Dynamic Tanh (DyT).
 
-This repository contains my ongoing final project for the **Experimentation with PyTorch (ECE-491)** course, focusing on exploring model compression (pruning and quantization) techniques applied to normalization-free neural networks using Dynamic Tanh (DyT). Standard compression methods are usually tailored for networks employing normalization layers such as Batch Normalization or Layer Normalization. This project investigates whether the removal of these normalization layers influences the effectiveness of pruning and quantization, and evaluates if DyT can effectively adapt under compression.
+## Efficient ViT's with Dynamic Tanh
 
 ### Objective  
 Our goal is to explore how different normalization strategies affect vision transformers on CIFAR‑100. We will compare traditional Layer Normalization (LN) against a normalization‑free approach using Dynamic Tanh (DyT) to assess training stability, accuracy, and inference efficiency—both before and after applying compression techniques like iterative pruning and integer quantization.
