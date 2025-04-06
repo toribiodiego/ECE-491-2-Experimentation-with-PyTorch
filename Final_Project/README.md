@@ -1,4 +1,4 @@
-## Pruning and Quantizing a Normalization-Free Network With Dynamic Tanh
+## Efficient ViT's with Dynamic Tanh
 
 This repository contains my ongoing final project for the **Experimentation with PyTorch (ECE-491)** course, focusing on exploring model compression (pruning and quantization) techniques applied to normalization-free neural networks using Dynamic Tanh (DyT). Standard compression methods are usually tailored for networks employing normalization layers such as Batch Normalization or Layer Normalization. This project investigates whether the removal of these normalization layers influences the effectiveness of pruning and quantization, and evaluates if DyT can effectively adapt under compression.
 
