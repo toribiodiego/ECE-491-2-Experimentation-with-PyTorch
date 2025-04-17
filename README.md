@@ -30,8 +30,13 @@ Complementing this, the [*Hugging Face NLP Course*](https://huggingface.co/learn
 
 
 ### Repository Structure
-
-- **Final_Project**
+```
+.
+├── Final_Project
+│   ├── README.md
+│   └── fine_tune.ipynb
+└── README.md
+```
 
 
 ### Final Project
